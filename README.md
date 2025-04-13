@@ -21,4 +21,4 @@ This predictive analytics project uses NBA player statistics to build machine le
 ## 🙌 Acknowledgments
 Special thanks to my mentor **Maneet Kaur** for guidance throughout the project.
 
-## 📎 [(https://www.linkedin.com/feed/update/urn:li:activity:7263234224445362178/)](#) *(Add your link here)*
+## 📎 [(https://www.linkedin.com/feed/update/urn:li:activity:7263234224445362178/)](#) *(Linkedin Post)*
